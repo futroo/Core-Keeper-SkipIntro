@@ -8,7 +8,7 @@ Skip Intro - as the name suggests, allows you to avoid the wait for the Pugstorm
 
 ## Installation
 
-To install Skip Intro you need to find the mod in the Mods menu in the game, and then subscribe to it.
+To install Skip Intro you need to find the mod in the Mods menu in the game, and then subscribe to it. If you need mod files for manual installation, download them from [releases page](https://github.com/futroo/Core-Keeper-SkipIntro/releases "Releases Page") or [Mod.IO](https://mod.io/g/corekeeper/m/skip-intro "Mod.IO")
 
 ## Contributing
 
